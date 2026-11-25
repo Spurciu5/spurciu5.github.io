@@ -1,8 +1,0 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "com.bulutstudio.foxy",
-        "sha256_cert_fingerprints": ["0A:C8:69:93:5A:84:34:89:05:E8:E2:D5:90:18:E4:72:AA:F4:ED:BE:6A:4E:5D:51:16:5C:27:CB:83:34:4C:EF"]
-      }
-    }]
